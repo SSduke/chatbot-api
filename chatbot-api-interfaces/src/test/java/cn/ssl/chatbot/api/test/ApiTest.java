@@ -57,6 +57,7 @@ public class ApiTest {
             String res = EntityUtils.toString(response.getEntity());
             System.out.println(res);
         }else{
+            System.out.println("测试");
             System.out.println(response.getStatusLine().getStatusCode());
         }
     }
