@@ -4,4 +4,4 @@ server:
 chatbot-api:
   groupId: 48884218141548
   cookie: zsxq_access_token=C82FFE01-572F-2ED3-7BF3-2061264ECA98_096500B0AA98BDA6; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%22184522128218812%22%2C%22first_id%22%3A%22189e93c84d9455-04bad1ff4c33f9-7c54647e-1821369-189e93c84da160a%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%7D%2C%22identities%22%3A%22eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTg5ZTkzYzg0ZDk0NTUtMDRiYWQxZmY0YzMzZjktN2M1NDY0N2UtMTgyMTM2OS0xODllOTNjODRkYTE2MGEiLCIkaWRlbnRpdHlfbG9naW5faWQiOiIxODQ1MjIxMjgyMTg4MTIifQ%3D%3D%22%2C%22history_login_id%22%3A%7B%22name%22%3A%22%24identity_login_id%22%2C%22value%22%3A%22184522128218812%22%7D%2C%22%24device_id%22%3A%22189e93c84d9455-04bad1ff4c33f9-7c54647e-1821369-189e93c84da160a%22%7D; abtest_env=product; zsxqsessionid=fd732bbe690971396f5c67391bded805
-  openAiKey: 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
+  openAiKey: your key
